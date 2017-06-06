@@ -2,6 +2,8 @@
 
 Kotlin Todo is a simple todo-list created with Kotlin and Javascript. Click [Learn Kotlin](https://www.programiz.com/kotlin) to get started with Kotlin.
 
+You can see the final output at [the github pages link](https://programiz.github.io/kotlin-todo/web/)
+
 ## Setting up the project
 
 * Clone or zip the project file.
