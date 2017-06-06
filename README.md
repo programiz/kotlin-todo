@@ -1,6 +1,6 @@
 # Kotlin Todo
 
-Kotlin Todo is a simple todo-list created with Kotlin and Javascript.
+Kotlin Todo is a simple todo-list created with Kotlin and Javascript. Click [Learn Kotlin](https://www.programiz.com/kotlin) to get started with Kotlin.
 
 ## Setting up the project
 
