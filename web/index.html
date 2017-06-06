@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kotlin Todo</title>
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+<section class="todoapp">
+    <header class="header">
+        <h1>todos</h1>
+        <input id="new-todo" class="new-todo" placeholder="What needs to be done?" autofocus>
+    </header>
+    <section class="main">
+        <input id="toggle-all" class="toggle-all" type="checkbox">
+        <label for="toggle-all">Mark all as complete</label>
+        <ul id="todo-list" class="todo-list"></ul>
+    </section>
+    <footer class="footer">
+        <ul class="filters">
+            <li>
+                <a href="#/" class="selected">All</a>
+            </li>
+            <li>
+                <a href="#/active">Active</a>
+            </li>
+            <li>
+                <a href="#/completed">Completed</a>
+            </li>
+        </ul>
+    </footer>
+</section>
+<script type="text/javascript" src="../out/production/kotlin-todo/lib/kotlin.js"></script>
+<script type="text/javascript" src="../out/production/kotlin-todo/kotlin-todo.js"></script>
+</body>
+</html>
